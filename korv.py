@@ -1,4 +1,3 @@
-#print("Hello world")
 import math
 
 print("---------------------------")
